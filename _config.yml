@@ -18,24 +18,24 @@ remote_theme: mmistakes/so-simple-theme
 
 locale: de-DE
 title: "Nana Chimi, Achille"
-description: "A blog to capture and share my professional experience, personal opinions and view points about subjects that matter to me the most."
+description: "My thoughts and insights"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: # path of site logo, e.g. "/images/logo.png"
+url: "https://nanachimi.com"
+logo: "/images/me.jpg"
 date_format: "%B %-d, %Y"
 read_time: true # reading time estimates, e.g. true
 words_per_minute: 200
-mathjax: # MathJax equations, e.g. true
+mathjax: true
 google_fonts:
   - name: "Source Sans Pro"
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
-google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
+google_analytics: "UA-NNNNNNNN-N"
 disqus:
-  shortname: Achille # Disqus shortname, e.g. "my_disqus_shortname"
+  shortname: "nanachimi"
 twitter:
-  username: ananachimi
+  username: "ananachimi"
 
 # Liquid
 liquid:
