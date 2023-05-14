@@ -89,7 +89,7 @@ defaults:
 # Site Author
 author:
   name: Achille Nana Chimi
-  picture:
+  picture: nanachimi.png
   email:
   twitter: ananachimi
   links:
@@ -108,6 +108,6 @@ footer_links:
   - title: Github
     url: https://github.com/nanachimi
     icon: fab fa-github
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/nanachimi/
+    icon: fas fa-linkedin
