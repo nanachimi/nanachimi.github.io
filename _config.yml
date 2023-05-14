@@ -90,7 +90,7 @@ defaults:
 author:
   name: Achille Nana Chimi
   picture: nanachimi.png
-  email:
+  email: me@nanachimi.com
   twitter: ananachimi
   links:
     - title: Twitter
@@ -99,7 +99,10 @@ author:
     - title: Github
       url: https://github.com/nanachimi
       icon: fab fa-github
-
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/nanachimi/
+      icon: fas fa-linkedin
+      
 # Footer Links
 footer_links:
   - title: Twitter
