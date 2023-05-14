@@ -20,7 +20,7 @@ locale: de-DE
 title: "Nana Chimi, Achille"
 description: "My thoughts and insights"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: "https:nanachimi.com"
+url: "https://nanachimi.com"
 #url: "http://localhost:4000"
 logo: "/images/me.jpg"
 date_format: "%B %-d, %Y"
