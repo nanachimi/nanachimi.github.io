@@ -17,12 +17,12 @@
 remote_theme: mmistakes/so-simple-theme
 
 locale: de-DE
-title: "Nana Chimi, Achille"
+title: "Nana Chimi's Blog"
 description: "My thoughts and insights"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://www.nanachimi.com"
 #url: "http://localhost:4000"
-logo: "/images/me.jpg"
+logo: "/images/logo.jpg"
 date_format: "%B %-d, %Y"
 read_time: true # reading time estimates, e.g. true
 words_per_minute: 200
@@ -89,8 +89,8 @@ defaults:
 
 # Site Author
 author:
-  name: Achille Nana Chimi
-  picture: nanachimi.png
+  name: Nana Chimi
+  picture: /images/me.jpg
   email: me@nanachimi.com
   twitter: ananachimi
   links:
