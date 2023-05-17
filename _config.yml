@@ -16,9 +16,9 @@
 # theme: jekyll-theme-so-simple
 remote_theme: mmistakes/so-simple-theme
 
-locale: de-DE
-title: "Nana Chimi's Blog"
-description: "My thoughts and insights"
+locale: en-DE
+title: "The NC Journal"
+description: "Digital Tranformation and more."
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://nanachimi.com
 #url: "http://localhost:4000"
