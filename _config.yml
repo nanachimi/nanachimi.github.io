@@ -17,8 +17,8 @@
 remote_theme: mmistakes/so-simple-theme
 
 locale: en-DE
-title: "The NC Journal"
-description: "Digital Tranformation and more."
+title: "nanachimi.com"
+description: "My thoughts on digital transformation and more"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://nanachimi.com
 #url: "http://localhost:4000"
